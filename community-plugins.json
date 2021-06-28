@@ -1735,5 +1735,12 @@
         "author": "kzhovn",
         "description": "Adds a pomodoro timer to your status bar.",
         "repo": "kzhovn/statusbar-pomo-obsidian"
+    },
+    {
+        "id": "obsidian-remarkable",
+        "name": "Obsidian & reMarkable",
+        "author": "Simon Welker",
+        "description": "Lets you capture and insert drawings from your reMarkable tablet.",
+        "repo": "cobalamin/obsidian-remarkable"
     }
 ]
